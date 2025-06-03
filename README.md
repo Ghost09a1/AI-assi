@@ -1,1 +1,1 @@
-# AI-assi
+# Willkommen im Projekt  Dieses README wurde automatisch durch einen AI-Agenten erstellt.
